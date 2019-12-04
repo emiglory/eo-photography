@@ -1,0 +1,201 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+	size: 3rem;
+	line-height: 1.5;
+	padding-top: 80px;
+	font-size: 30px;
+}
+
+button{
+	padding-right: 20px;
+}
+
+.introductory-text{
+	font-family: 'Kaushan Script', cursive;
+	font-weight: 900;
+	size: 3rem;
+	line-height: 1.5;
+	padding-top: 80px;
+	font-size: 60px;
+}
+
+h2{
+
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 100;
+	size: 15px;
+	line-height: 2.0;
+	font-size: 15px;
+
+}
+
+h4{
+
+	padding: 15px 0 0 0;
+	font-weight: 600;
+}
+
+i{
+	width: 80%;
+}
+
+em{
+	padding: 0 0 0 30px;
+}
+
+.brand-story{
+	padding: 80px 0 0 0;
+}
+
+.image-story{
+	padding: 0 0 0 50px;
+
+}
+
+.logo{
+	width: 4%;
+	margin: 0;
+}
+
+.title-image{
+	width: 80%;
+	margin: 15px 10px 0 0;
+
+}
+
+.book-button{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.0rem;
+	margin: 30px 30px 60px 0;
+}
+
+.main-logo{
+	width: 20px;
+	height: 20px;
+}
+
+#title{
+	background-color: #DEDEDE;
+}
+
+#Offers{
+	text-align: center;
+	padding: 100px 0 100px 0;
+}
+
+#testimonials{
+	text-align: center;
+	padding: 0 7% 0 7%;
+	background-color: #E5DFDF;
+}
+
+#press{
+	background-color: #E5DFDF;
+	text-align: center;
+}
+
+#pricing{
+	text-align: center;
+	margin: 40px 40px 40px 40px;
+	padding: 30px 100px 100px 100px;
+
+}
+
+#cta{
+	text-align: center;
+}
+
+.cta{
+	padding: 50px 0 50px 0;
+	background-color: #DEDEDE
+}
+
+.pricing-paragrah{
+	padding-bottom: 30px;
+}
+
+.press-logo{
+	width: 15%;
+	margin: 20px 20px 50px;
+}
+.testimonials{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.5rem;
+	line-height: 1.5;
+}
+
+
+.testimonial-img{
+    border-radius: 55%;
+    width: 15%;
+
+}
+
+.carousel-item
+{
+	padding: 7% 15%;
+
+}
+
+.offers{
+	text-align: center;
+	padding: 0 0 80px 0;
+}
+
+.navbar-brand{
+	font-family: 'Fredoka One', cursive;
+}
+
+.container-fluid{
+	padding: 2% 10%;
+}
+
+.nav-item{
+	padding: 0 10px 0 10px;
+	font-weight: 200px;
+}
+
+.nav-link{
+	font-size: 1.0rem;
+	font-weight: 200;
+}
+
+.fa-camera:hover {
+    color: red;
+}
+
+.fa-heart:hover {
+    color: red;
+}
+
+.fa-users:hover {
+    color: red;
+}
+
+.fab{
+	display: initial;
+}
+
+.fab.fa-facebook-f, .fab.fa-linkedin-in, .fab.fa-instagram{
+	display: initial;
+	margin-left: 10px;
+}
+
+.footer{
+	text-align: center;
+	margin: 60px 0 60px 0;
+
+}
+
+.socialmedia-footer{
+	padding-bottom: 20px;
+}
+
+
+
+
